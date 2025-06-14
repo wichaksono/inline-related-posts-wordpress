@@ -36,7 +36,7 @@ Tutorial ini membahas konsep, coding, customizer, dan cara mencegah duplikat rel
 ## 👨‍💻 Developer
 
 Dibuat oleh: [**Wakhid Wicaksono**](https://www.facebook.com/bocahapi/)  
-Proyek: [**NeonWebId**](https://www.facebook.com/neonwebid/)  
+NeonWebId Facebook Page: [https://www.facebook.com/neonwebid/](https://www.facebook.com/neonwebid/)  
 Website: [https://neon.web.id](https://neon.web.id)
 
 ---
